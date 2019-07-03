@@ -1,0 +1,41 @@
+{
+  "code": 1,
+  "message": "success",
+  "language": "en",
+  "timestamp": "1556873767948",
+  "nextPage": null,
+  "result": [
+    {
+      "id": 1,
+      "title": "News title goes here max lines is 2 and ellipsize at end",
+      "tag": "Man hair",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/news1.png",
+      "comments": 1,
+      "likes": 2
+    },
+    {
+      "id": 2,
+      "title": "News title goes here max lines is 2 and ellipsize at end",
+      "tag": "Man hair",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/news2.png",
+      "comments": 3,
+      "likes": 4
+    },
+    {
+      "id": 3,
+      "title": "News title goes here max lines is 2 and ellipsize at end",
+      "tag": "Man hair",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/news3.png",
+      "comments": 5,
+      "likes": 6
+    },
+    {
+      "id": 4,
+      "title": "News title goes here max lines is 2 and ellipsize at end",
+      "tag": "Man hair",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/news4.png",
+      "comments": 7,
+      "likes": 8
+    }
+  ]
+}

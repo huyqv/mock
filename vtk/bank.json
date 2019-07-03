@@ -1,0 +1,264 @@
+[
+  {
+    "bankName": "Techcombank",
+    "bankShortName": "KTB",
+    "bankFullName": "Ngân hàng TMCP Kỹ thương Việt Nam - Techcombank",
+    "areaList": [
+      {
+        "areaId": "1",
+        "areaName": "Hồ Chí Minh",
+        "bankName": "Techcombank",
+        "stationList": [
+          {
+            "stationId": "1",
+            "stationName": "Chi nhánh Cần Giờ",
+            "areaId": "1"
+          },
+          {
+            "stationId": "2",
+            "stationName": "Chi nhánh Phú Quốc",
+            "areaId": "1"
+          },
+          {
+            "stationId": "3",
+            "stationName": "Chi nhánh Côn Đảo",
+            "areaId": "1"
+          },
+          {
+            "stationId": "4",
+            "stationName": "Chi nhánh Trương Vĩnh Ký",
+            "areaId": "1"
+          }
+        ]
+      },
+      {
+        "areaId": "2",
+        "areaName": "Long An",
+        "bankName": "Techcombank",
+        "stationList": [
+          {
+            "stationId": "5",
+            "stationName": "Chi nhánh Long An",
+            "areaId": "2"
+          }
+        ]
+      },
+      {
+        "areaId": "3",
+        "areaName": "Cần Thơ",
+        "bankName": "Techcombank",
+        "stationList": [
+          {
+            "stationId": "6",
+            "stationName": "Chi nhánh Ninh Kiều",
+            "areaId": "3"
+          },
+          {
+            "stationId": "7",
+            "stationName": "Chi nhánh Ba Đình",
+            "areaId": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bankName": "ViettinBank",
+    "bankShortName": "VTB",
+    "bankFullName": "Ngân Hàng TMCP Công Thương Việt Nam - VietinBank",
+    "areaList": [
+      {
+        "areaId": "4",
+        "areaName": "Hà Nội",
+        "bankName": "ViettinBank",
+        "stationList": [
+          {
+            "stationId": "8",
+            "stationName": "Chi nhánh Bà Quẹo",
+            "areaId": "4"
+          },
+          {
+            "stationId": "9",
+            "stationName": "Chi nhánh Tân Bình",
+            "areaId": "4"
+          },
+          {
+            "stationId": "10",
+            "stationName": "Chi nhánh Thủ Đức",
+            "areaId": "4"
+          }
+        ]
+      },
+      {
+        "areaId": "5",
+        "areaName": "Hồ Chí Minh",
+        "bankName": "ViettinBank",
+        "stationList": [
+          {
+            "stationId": "11",
+            "stationName": "Chi nhánh Củ Chi",
+            "areaId": "5"
+          },
+          {
+            "stationId": "12",
+            "stationName": "Chi nhánh Bà Chiểu",
+            "areaId": "5"
+          },
+          {
+            "stationId": "13",
+            "stationName": "Chi nhánh Cầu Ông Lãnh",
+            "areaId": "5"
+          }
+        ]
+      },
+      {
+        "areaId": "6",
+        "areaName": "Hải Phòng",
+        "bankName": "ViettinBank",
+        "stationList": [
+          {
+            "stationId": "14",
+            "stationName": "Chi nhánh Thanh Đa",
+            "areaId": "6"
+          },
+          {
+            "stationId": "15",
+            "stationName": "Chi nhánh Miếu Nổi",
+            "areaId": "6"
+          },
+          {
+            "stationId": "16",
+            "stationName": "Chi nhánh Bà Hoa",
+            "areaId": "6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bankName": "ACB",
+    "bankShortName": "ACB",
+    "bankFullName": "Ngân hàng thương mại cổ phần Á Châu - ACB",
+    "areaList": [
+      {
+        "areaId": "7",
+        "areaName": "Hà Nội",
+        "bankName": "ACB",
+        "stationList": [
+          {
+            "stationId": "17",
+            "stationName": "Chi nhánh Ông Đồn",
+            "areaId": "7"
+          },
+          {
+            "stationId": "18",
+            "stationName": "Chi nhánh Bình Thạnh",
+            "areaId": "7"
+          },
+          {
+            "stationId": "19",
+            "stationName": "Chi nhánh Thủ Đức",
+            "areaId": "7"
+          }
+        ]
+      },
+      {
+        "areaId": "8",
+        "areaName": "Hồ Chí Minh",
+        "bankName": "ACB",
+        "stationList": [
+          {
+            "stationId": "20",
+            "stationName": "Chi nhánh Gò Vấp",
+            "areaId": "8"
+          },
+          {
+            "stationId": "21",
+            "stationName": "Chi nhánh Bình Chánh",
+            "areaId": "8"
+          },
+          {
+            "stationId": "22",
+            "stationName": "Chi nhánh Hóc Môn",
+            "areaId": "8"
+          }
+        ]
+      },
+      {
+        "areaId": "9",
+        "areaName": "Đà Nẵng",
+        "bankName": "ACB",
+        "stationList": [
+          {
+            "stationId": "23",
+            "stationName": "Chi nhánh Rạch Giá",
+            "areaId": "9"
+          },
+          {
+            "stationId": "24",
+            "stationName": "Chi nhánh Bảy Hiền",
+            "areaId": "9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bankName": "Vietcombank",
+    "bankShortName": "VCB",
+    "bankFullName": "Ngân hàng thương mại cổ phần Ngoại thương Việt Nam",
+    "areaList": [
+      {
+        "areaId": "10",
+        "areaName": "Hà Nội",
+        "bankName": "Vietcombank",
+        "stationList": [
+          {
+            "stationId": "25",
+            "stationName": "Chi nhánh An Sương",
+            "areaId": "10"
+          },
+          {
+            "stationId": "26",
+            "stationName": "Chi nhánh Cầu Bông",
+            "areaId": "10"
+          }
+        ]
+      },
+      {
+        "areaId": "11",
+        "areaName": "Hồ Chí Minh",
+        "bankName": "Vietcombank",
+        "stationList": [
+          {
+            "stationId": "27",
+            "stationName": "Chi nhánh Cầu Chữ Y",
+            "areaId": "11"
+          },
+          {
+            "stationId": "28",
+            "stationName": "Chi nhánh Cầu Kiệu",
+            "areaId": "11"
+          }
+        ]
+      },
+      {
+        "areaId": "12",
+        "areaName": "Đà Nẵng",
+        "bankName": "Vietcombank",
+        "stationList": [
+          {
+            "stationId": "29",
+            "stationName": "Chi nhánh Bến Nghé",
+            "areaId": "12"
+          },
+          {
+            "stationId": "30",
+            "stationName": "Chi nhánh Thị Nghè",
+            "areaId": "12"
+          }
+        ]
+      }
+    ]
+  }
+]

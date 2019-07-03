@@ -1,0 +1,54 @@
+{
+  "code": 1,
+  "message": "success",
+  "language": "en",
+  "timestamp": "1556873767948",
+  "nextPage": null,
+  "result": [
+    {
+      "id": 1,
+      "stars": 9,
+      "sale": 20,
+      "storeName": "Venora luxury Ama salon",
+      "address": "31 Nguyen Dinh Chieu, ĐaKao ward",
+      "location": "Tan Binh",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/store1.jpeg"
+    },
+    {
+      "id": 2,
+      "stars": 8,
+      "sale": 15,
+      "storeName": "Messi tattoo",
+      "address": "12 Tra Ngoc Hang, Tan Tao ward",
+      "location": "Binh Tan",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/store2.jpeg"
+    },
+    {
+      "id": 3,
+      "stars": 9,
+      "sale": 30,
+      "storeName": "Platinum massage",
+      "address": "325 Tram Anh, Ward 12",
+      "location": "Phu Nhuan",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/store3.jpeg"
+    },
+    {
+      "id": 4,
+      "stars": 8,
+      "sale": 20,
+      "storeName": "Barber shop",
+      "address": "40 Ngoc Trinh, Ba Diem ward",
+      "location": "Cu Chi",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/store4.jpeg"
+    },
+    {
+      "id": 5,
+      "stars": 7,
+      "sale": 10,
+      "storeName": "GlowSaigon salon",
+      "address": "21 Hoang Thuy Linh, Tan Son Nhi ward",
+      "location": "Tan Phu",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/store5.jpeg"
+    }
+  ]
+}

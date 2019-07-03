@@ -1,0 +1,96 @@
+{
+  "code": 1,
+  "message": "success",
+  "language": "en",
+  "timestamp": "1556873767948",
+  "nextPage": null,
+  "result": [
+    {
+      "label": "Trending hair",
+      "album": [
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair1.png"
+        },
+        {
+          "id": 2,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair2.png"
+        },
+        {
+          "id": 3,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair3.png"
+        },
+        {
+          "id": 4,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair4.png"
+        },
+        {
+          "id": 5,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair5.png"
+        },
+        {
+          "id": 6,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/hair6.png"
+        }
+      ]
+    },
+    {
+      "label": "Hottest pattern",
+      "album": [
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail1.png"
+        },
+        {
+          "id": 2,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail2.png"
+        },
+        {
+          "id": 3,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail3.png"
+        },
+        {
+          "id": 4,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail4.png"
+        },
+        {
+          "id": 5,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail5.png"
+        },
+        {
+          "id": 6,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/nail6.png"
+        }
+      ]
+    },
+    {
+      "label": "Top dirty tattoo",
+      "album": [
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo1.png"
+        },
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo2.png"
+        },
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo3.png"
+        },
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo4.png"
+        },
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo5.png"
+        },
+        {
+          "id": 1,
+          "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/tattoo6.png"
+        }
+      ]
+    }
+  ]
+}

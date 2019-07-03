@@ -1,0 +1,34 @@
+{
+  "code": 1,
+  "message": "success",
+  "language": "en",
+  "timestamp": "1556873767948",
+  "nextPage": null,
+  "result": [
+    {
+      "id": 1,
+      "url": "www.google.com",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/carousel1.jpeg"
+    },
+    {
+      "id": 2,
+      "url": "www.google.com",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/carousel2.jpeg"
+    },
+    {
+      "id": 3,
+      "url": "www.google.com",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/carousel3.jpeg"
+    },
+    {
+      "id": 4,
+      "url": "www.google.com",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/carousel4.jpeg"
+    },
+    {
+      "id": 5,
+      "url": "www.google.com",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/carousel5.jpeg"
+    }
+  ]
+}

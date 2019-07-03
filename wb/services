@@ -1,0 +1,58 @@
+{
+  "code": 1,
+  "message": "success",
+  "language": "en",
+  "timestamp": "1556873767948",
+  "nextPage": null,
+  "result": [
+    {
+      "id": 1,
+      "key": "barbe",
+      "label": "Barbe",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_barber.png"
+    },
+    {
+      "id": 2,
+      "key": "markup",
+      "label": "Markup",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_makeup.png"
+    },
+    {
+      "id": 3,
+      "key": "beard",
+      "label": "Beard",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_beard.png"
+    },
+    {
+      "id": 4,
+      "key": "tattoo",
+      "label": "Tattoo",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_tattoo.png"
+    },
+    {
+      "id": 5,
+      "key": "",
+      "label": "Nail",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_nail.png"
+    },
+    {
+      "id": 6,
+      "key": "marijuana",
+      "label": "Marijuana",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_marijuana.png"
+    },
+    {
+      "id": 7,
+      "key": "grass",
+      "label": "Grass",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_grass.png"
+    },
+    {
+      "id": 8,
+      "language": "vi",
+      "key": "massage",
+      "label": "Massage",
+      "image": "https://raw.githubusercontent.com/huyqv/wbmock/master/resources/ic_massage.png"
+    }
+  ]
+}

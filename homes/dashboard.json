@@ -1,0 +1,54 @@
+[
+  {
+    "title": "thông tin chung",
+    "items": [
+      {
+        "text": "Cư dân đăng ký",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/customer.png",
+        "color": "#162b75",
+        "num": "4.754"
+      },
+      {
+        "text": "Phương tiện đăng ký",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/car.png",
+        "color": "#162b75",
+        "num": "1.745"
+      }
+    ]
+  },
+  {
+    "title": "số lượt ra vào",
+    "items": [
+      {
+        "text": "Tổng số lượt",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/checkin.png",
+        "color": "#f07115",
+        "num": "1.234"
+      },
+      {
+        "text": "Sảnh chính",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/gym.png",
+        "color": "#ff2012",
+        "num": "956"
+      },
+      {
+        "text": "Bãi gửi xe",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/parking.png",
+        "color": "#f6cc35",
+        "num": "752"
+      },
+      {
+        "text": "Hồ bơi",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/swimming.png",
+        "color": "#0b82f0",
+        "num": "1.851"
+      },
+      {
+        "text": "Thang máy",
+        "icon": "https://raw.githubusercontent.com/huyqv/mock/master/homes/icon/elevator.png",
+        "color": "#00cfaa",
+        "num": "3.152"
+      }
+    ]
+  }
+]

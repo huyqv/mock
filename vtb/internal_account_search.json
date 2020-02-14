@@ -1,0 +1,134 @@
+[
+  {
+    "Account": {
+      "Cid": "100000000",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "500000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000001",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "2000000000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000002",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "200000.00",
+      "Currency": "USD",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000003",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "300000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDB",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000004",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "400000.00",
+      "Currency": "EUR",
+      "Brcd": "82098",
+      "Grp": "DDB",
+      "Coacct": "Y",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000005",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "500000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "Y",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000006",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "600000.00",
+      "Currency": "USD",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000007",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "700000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDB",
+      "Coacct": "Y",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000008",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "800000.00",
+      "Currency": "EUR",
+      "Brcd": "82098",
+      "Grp": "DDB",
+      "Coacct": "Y",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000009",
+      "Acctname": "MOC DIT HUI",
+      "Bal": "500000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  },
+  {
+    "Account": {
+      "Cid": "100000010",
+      "Acctname": "TRAN NHU NHONG",
+      "Bal": "500000.00",
+      "Currency": "VND",
+      "Brcd": "82098",
+      "Grp": "DDA",
+      "Coacct": "N",
+      "Status": "0"
+    }
+  }
+]

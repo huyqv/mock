@@ -1,0 +1,80 @@
+[
+  {
+    "ID": "5d09faa38523e14956e1245b",
+    "ServiceType": "DEPINT",
+    "Name": "Nộp tiền trong VietinBank",
+    "CreateAt": "2019-06-19T09:04:35.656Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e1245c",
+    "ServiceType": "WITHDRAW",
+    "Name": "Rút tiền",
+    "CreateAt": "2019-06-19T09:04:36.088Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e1245d",
+    "ServiceType": "SAVINGDEP",
+    "Name": "Gửi tiết kiệm",
+    "CreateAt": "2019-06-19T09:04:36.089Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e1245e",
+    "ServiceType": "DEPEXT",
+    "Name": "Nộp tiền ngoài VietinBank",
+    "CreateAt": "2019-06-19T09:04:36.09Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e1245f",
+    "ServiceType": "TRANSINT",
+    "Name": "Chuyển khoản trong Vietinbank",
+    "CreateAt": "2019-06-19T09:04:36.091Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e12460",
+    "ServiceType": "TRANSEXT",
+    "Name": "Chuyển khoản ngoài VietinBank thông thường",
+    "CreateAt": "2019-06-19T09:04:36.092Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e12461",
+    "ServiceType": "TRANSEXTCARD",
+    "Name": "Chuyển khoản nhanh ngoài VietinBank đến số thẻ (≤300trđ)",
+    "CreateAt": "2019-06-19T09:04:36.094Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e12463",
+    "ServiceType": "FCY",
+    "Name": "Ngoại tệ",
+    "CreateAt": "2019-06-19T09:04:36.095Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e12464",
+    "ServiceType": "CARD",
+    "Name": "Thẻ",
+    "CreateAt": "2019-06-19T09:04:36.096Z"
+  },
+  {
+    "ID": "5d09faa48523e14956e12465",
+    "ServiceType": "OTHER",
+    "Name": "Khác",
+    "CreateAt": "2019-06-19T09:04:36.097Z"
+  },
+  {
+    "ID": "5d83367eae452554588058e7",
+    "ServiceType": "TRANSEXTACC",
+    "Name": "Chuyển khoản nhanh ngoài VietinBank đến số tài khoản (≤300trđ)",
+    "CreateAt": "2019-06-19T09:04:36.094Z"
+  },
+  {
+    "ID": "5d83371cae452554588058e8",
+    "ServiceType": "CORPCUST",
+    "Name": "Khách hàng doanh nghiệp",
+    "CreateAt": "2019-06-19T09:04:36.097Z"
+  },
+  {
+    "ID": "5d84a132fdb84d4089992497",
+    "ServiceType": "WDSVG",
+    "Name": "Rút tiết kiệm",
+    "CreateAt": "2019-06-19T09:04:36.097Z"
+  }
+]

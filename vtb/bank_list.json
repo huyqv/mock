@@ -1,0 +1,58 @@
+{
+  "BankList": [
+    {
+      "Code": "1",
+      "BankCode": "1",
+      "Name": "Ngân hàng nước mắm - NMB",
+      "LocationCode": "22",
+      "Location": "QUANG NINH",
+      "Napas": "N",
+      "HasBranch": "Y"
+    },
+    {
+      "Code": "2",
+      "BankCode": "2",
+      "Name": "Ngân hàng nước tương - NTB",
+      "LocationCode": "10",
+      "Location": "LAO CAI",
+      "Napas": "Y",
+      "HasBranch": "N"
+    },
+    {
+      "Code": "3",
+      "BankCode": "3",
+      "Name": "Ngân hàng tương ớt - TOB",
+      "LocationCode": "31",
+      "Location": "HAI PHONG",
+      "Napas": "N",
+      "HasBranch": "Y"
+    },
+    {
+      "Code": "4",
+      "BankCode": "4",
+      "Name": "Ngân hàng dầu ăn - DAB",
+      "LocationCode": "31",
+      "Location": "LANG SON",
+      "Napas": "Y",
+      "HasBranch": "N"
+    },
+    {
+      "Code": "5",
+      "BankCode": "5",
+      "Name": "Ngân hàng sữa tươi - STB",
+      "LocationCode": "46",
+      "Location": "THUA THIEN HUE",
+      "Napas": "N",
+      "HasBranch": "Y"
+    },
+    {
+      "Code": "6",
+      "BankCode": "6",
+      "Name": "Ngân hàng trứng - TB",
+      "LocationCode": "48",
+      "Location": "CON DAO",
+      "Napas": "Y",
+      "HasBranch": "N"
+    }
+  ]
+}

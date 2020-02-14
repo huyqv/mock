@@ -1,0 +1,56 @@
+[
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004001",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "KHANG HÌNH SỰ THÔN",
+    "AddAddedInfo": ""
+  },
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004002",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "KHANG HÌNH SỰ PHƯỜNG",
+    "AddAddedInfo": ""
+  },
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004002",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "THẦY GIÁO HIỀN",
+    "AddAddedInfo": ""
+  },
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004003",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "CÔ GIÁO HIỀN",
+    "AddAddedInfo": ""
+  },
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004013",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "THẦY GIÁO SẤY",
+    "AddAddedInfo": ""
+  },
+  {
+    "Code": 0,
+    "Message": "",
+    "CardID": "1000200030004014",
+    "BankID": "2",
+    "SubBankID": "",
+    "AcctName": "THẦY GIÁO CẦN",
+    "AddAddedInfo": ""
+  }
+]

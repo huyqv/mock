@@ -1,0 +1,38 @@
+[
+  {
+    "AcctID": "200000001",
+    "BankID": "2",
+    "SubBankID": "0",
+    "AcctName": "KHANG HÌNH SỰ THÔN"
+  },
+  {
+    "AcctID": "300000001",
+    "BankID": "3",
+    "SubBankID": "0",
+    "AcctName": "KHANG HÌNH SỰ THÔN"
+  },
+  {
+    "AcctID": "300000002",
+    "BankID": "3",
+    "SubBankID": "0",
+    "AcctName": "THẦY GIÁO HIỀN"
+  },
+  {
+    "AcctID": "400000002",
+    "BankID": "4",
+    "SubBankID": "0",
+    "AcctName": "THẦY GIÁO HIỀN"
+  },
+  {
+    "AcctID": "400000003",
+    "BankID": "4",
+    "SubBankID": "0",
+    "AcctName": "THẦY GIÁO SẤY"
+  },
+  {
+    "AcctID": "500000002",
+    "BankID": "5",
+    "SubBankID": "0",
+    "AcctName": "THẦY GIÁO SẤY"
+  }
+]

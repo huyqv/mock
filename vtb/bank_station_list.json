@@ -1,0 +1,24 @@
+{
+  "SubBranchList": [
+    {
+      "code": "11",
+      "bankcode": "1",
+      "name": "Mù Căng Chảy",
+      "branchname": "Chi nhánh Mù Căng Chảy",
+      "locationcode": "1",
+      "location": "Lào Cai",
+      "napas": "Y",
+      "hasbranch": "Y"
+    },
+    {
+      "code": "12",
+      "bankcode": "1",
+      "name": "Vùng A Dính",
+      "branchname": "Chi nhánh Vùng A Dính",
+      "locationcode": "1",
+      "location": "Lào Cai",
+      "napas": "Y",
+      "hasbranch": "Y"
+    }
+  ]
+}

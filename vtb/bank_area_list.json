@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "1",
+    "CityListByBank": [
+      {
+        "code": "11",
+        "description": "Lạng Sơn"
+      },
+      {
+        "code": "12",
+        "description": "Cao Bằng"
+      },
+      {
+        "code": "13",
+        "description": "Côn Đảo"
+      }
+    ]
+  },
+  {
+    "Code": "4",
+    "CityListByBank": [
+      {
+        "code": "41",
+        "description": "Lào Cai"
+      },
+      {
+        "code": "42",
+        "description": "Phú Quốc"
+      },
+      {
+        "code": "43",
+        "description": "Côn Đảo"
+      },
+      {
+        "code": "44",
+        "description": "Lạng Sơn"
+      },
+      {
+        "code": "45",
+        "description": "Cao Bằng"
+      }
+    ]
+  }
+]

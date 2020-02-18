@@ -1,9 +1,9 @@
 {
   "ListAd": [
-    "https://raw.githubusercontent.com/huyqv/mock/master/resources/vtb1.jpg",
-    "https://raw.githubusercontent.com/huyqv/mock/master/resources/vtb2.jpg",
-    "https://raw.githubusercontent.com/huyqv/mock/master/resources/vtb3.jpg",
-    "https://raw.githubusercontent.com/huyqv/mock/master/resources/vtb4.jpg",
-    "https://raw.githubusercontent.com/huyqv/mock/master/resources/vtb5.jpg"
+    "vtb1.jpg",
+    "vtb2.jpg",
+    "vtb3.jpg",
+    "vtb4.jpg",
+    "vtb5.jpg"
   ]
 }

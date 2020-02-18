@@ -1,0 +1,24 @@
+{
+  "CityListByBank": [
+    {
+      "code": "41",
+      "description": "Lào Cai"
+    },
+    {
+      "code": "42",
+      "description": "Phú Quốc"
+    },
+    {
+      "code": "43",
+      "description": "Côn Đảo"
+    },
+    {
+      "code": "44",
+      "description": "Lạng Sơn"
+    },
+    {
+      "code": "45",
+      "description": "Cao Bằng"
+    }
+  ]
+}

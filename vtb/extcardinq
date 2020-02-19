@@ -24,7 +24,7 @@
       "CardID": "1000200030004002",
       "BankID": "2",
       "SubBankID": "",
-      "AcctName": "THẦY GIÁO HIỀN",
+      "AcctName": "THẦY RÁO HIỀN",
       "AddAddedInfo": ""
     },
     {
@@ -33,7 +33,7 @@
       "CardID": "1000200030004003",
       "BankID": "2",
       "SubBankID": "",
-      "AcctName": "CÔ GIÁO HIỀN",
+      "AcctName": "CÔ RÁO HIỀN",
       "AddAddedInfo": ""
     },
     {
@@ -42,7 +42,7 @@
       "CardID": "1000200030004013",
       "BankID": "2",
       "SubBankID": "",
-      "AcctName": "THẦY GIÁO SẤY",
+      "AcctName": "THẦY RÁO SẤY",
       "AddAddedInfo": ""
     },
     {
@@ -51,7 +51,7 @@
       "CardID": "1000200030004014",
       "BankID": "2",
       "SubBankID": "",
-      "AcctName": "THẦY GIÁO CẦN",
+      "AcctName": "THẦY RÁO CẦN",
       "AddAddedInfo": ""
     }
   ]

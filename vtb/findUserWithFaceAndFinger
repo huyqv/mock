@@ -116,11 +116,11 @@
         "CardNumber": "1000200030004001"
       },
       {
-        "SuggestName": "THẦY GIÁO HIỀN",
+        "SuggestName": "THẦY RÁO HIỀN",
         "CardNumber": "1000200030004002"
       },
       {
-        "SuggestName": "THẦY GIÁO SẤY",
+        "SuggestName": "THẦY RÁO SẤY",
         "CardNumber": "1000200030004013"
       }
     ],
@@ -144,7 +144,7 @@
           },
           {
             "Cid": "300000002",
-            "Name": "THẦY GIÁO HIỀN",
+            "Name": "THẦY RÁO HIỀN",
             "Code": "3",
             "BankCode": "3",
             "BankName": "Ngân hàng tương ớt - TOB",
@@ -154,7 +154,7 @@
           },
           {
             "Cid": "500000002",
-            "Name": "THẦY GIÁO SẤY",
+            "Name": "THẦY RÁO SẤY",
             "Code": "5",
             "BankCode": "5",
             "BankName": "Ngân hàng sữa tươi - STB",
@@ -171,7 +171,7 @@
             "Cid": "100000009",
             "Name": "MOC DIT HUI",
             "BankCode": "1",
-            "BankName": "Ngân hàng nước mắm - NMB",
+            "BankName": "Ngân hàng lước mắm - NMB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
@@ -180,7 +180,7 @@
             "Cid": "100000010",
             "Name": "HONG CO THUI",
             "BankCode": "1",
-            "BankName": "Ngân hàng nước mắm - NMB",
+            "BankName": "Ngân hàng lước mắm - NMB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
@@ -194,7 +194,7 @@
             "Cid": "100000009",
             "Name": "MOC DIT HUI",
             "BankCode": "1",
-            "BankName": "Ngân hàng nước mắm - NMB",
+            "BankName": "Ngân hàng lước mắm - NMB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
@@ -203,7 +203,7 @@
             "Cid": "100000010",
             "Name": "HONG CO THUI",
             "BankCode": "1",
-            "BankName": "Ngân hàng nước mắm - NMB",
+            "BankName": "Ngân hàng lước mắm - NMB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
@@ -218,27 +218,27 @@
             "Name": "KHANG HÌNH SỰ THÔN",
             "Code": "2",
             "BankCode": "2",
-            "BankName": "Ngân hàng nước tương - NTB",
+            "BankName": "Ngân hàng lước tương - NTB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
           },
           {
             "Cid": "400000002",
-            "Name": "THẦY GIÁO HIỀN",
+            "Name": "THẦY RÁO HIỀN",
             "Code": "4",
             "BankCode": "4",
-            "BankName": "Ngân hàng dầu ăn - DAB",
+            "BankName": "Ngân hàng rầu ăn - DAB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
           },
           {
             "Cid": "400000003",
-            "Name": "THẦY GIÁO SẤY",
+            "Name": "THẦY RÁO SẤY",
             "Code": "4",
             "BankCode": "4",
-            "BankName": "Ngân hàng dầu ăn - DAB",
+            "BankName": "Ngân hàng rầu ăn - DAB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
@@ -257,27 +257,27 @@
             "Name": "KHANG HÌNH SỰ THÔN",
             "Code": "2",
             "BankCode": "2",
-            "BankName": "Ngân hàng nước tương - NTB",
+            "BankName": "Ngân hàng lước tương - NTB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
           },
           {
             "Cid": "400000002",
-            "Name": "THẦY GIÁO HIỀN",
+            "Name": "THẦY RÁO HIỀN",
             "Code": "4",
             "BankCode": "4",
-            "BankName": "Ngân hàng dầu ăn - DAB",
+            "BankName": "Ngân hàng rầu ăn - DAB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"
           },
           {
             "Cid": "400000003",
-            "Name": "THẦY GIÁO SẤY",
+            "Name": "THẦY RÁO SẤY",
             "Code": "4",
             "BankCode": "4",
-            "BankName": "Ngân hàng dầu ăn - DAB",
+            "BankName": "Ngân hàng rầu ăn - DAB",
             "SubBankCode": "",
             "SubBankName": "",
             "LocationCode": "01"

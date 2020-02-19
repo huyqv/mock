@@ -3,7 +3,7 @@
     {
       "Code": "1",
       "BankCode": "1",
-      "Name": "Ngân hàng nước mắm - NMB",
+      "Name": "Ngân hàng lước mắm - NMB",
       "LocationCode": "22",
       "Location": "QUANG NINH",
       "Napas": "N",
@@ -12,7 +12,7 @@
     {
       "Code": "2",
       "BankCode": "2",
-      "Name": "Ngân hàng nước tương - NTB",
+      "Name": "Ngân hàng lước tương - NTB",
       "LocationCode": "10",
       "Location": "LAO CAI",
       "Napas": "Y",
@@ -30,7 +30,7 @@
     {
       "Code": "4",
       "BankCode": "4",
-      "Name": "Ngân hàng dầu ăn - DAB",
+      "Name": "Ngân hàng rầu ăn - DAB",
       "LocationCode": "31",
       "Location": "LANG SON",
       "Napas": "Y",
